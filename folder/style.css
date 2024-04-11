@@ -1,0 +1,20 @@
+.section-1{
+    width: 190px;
+    height: 20vh;
+    background-color: blue;
+}
+.section-2{
+    width: 120px;
+    height: 20vh;
+    background-color: black;
+}
+.section-3{
+    width: 120px;
+    height: 20vh;
+    background-color: #b30909;
+}
+span{
+    font-size: larger;
+    font-weight: 900;
+
+}
